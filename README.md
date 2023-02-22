@@ -1,0 +1,1 @@
+Questa mattina durante la correzione dell'esercizio, ho pushato nuovamente  con l'esercizio corretto, solo che ho avuto problemi con il push e mi ha annullato quello fatto ieri con l'esercizio finito e quindi adesso risulta solo il push di questa mattina eliminando praticamente il lavoro fatto ieri. Spero non sia un problema.
